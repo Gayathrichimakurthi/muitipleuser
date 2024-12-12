@@ -1,0 +1,41 @@
+.hello{
+    color:red;
+}
+.full{
+    background-color: black;
+    width: 100vw;
+    padding-left: 50rem;
+    padding-top: 20rem;
+    height: 100vh;
+    
+
+}
+.login{
+    background-color:pink;
+    border-radius: 2rem;
+    width: 20rem;
+    height: 25rem;
+    display: flex;
+    flex-direction:column;
+    align-items: center; 
+}
+.email{
+    width: 200px;
+    height: 30px;
+    border-radius: 1rem;
+}
+.password{
+    width: 200px;
+    height: 30px;
+    border-radius: 1rem;
+}
+.button{
+    width: 90px;
+    height: 20px;
+    border-radius: 0.5rem;
+}
+.name{
+    width:200px;
+    height:30px;
+    border-radius: 1rem;
+}

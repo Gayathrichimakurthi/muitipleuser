@@ -1,0 +1,35 @@
+.full{
+    background-color: aliceblue;
+    width: 100vw;
+    height: 100vh;
+    padding-left: 50rem;
+    padding-top: 20rem;
+}
+.Login{
+    background-color: aqua;
+    border-radius: 2rem;
+    width: 20rem;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.hello{
+    color: blue;
+}
+.email{
+    width: 200px;
+    height: 30px;
+    border-radius: 1rem;
+}
+.password{
+    width: 200px;
+    height: 30px;
+    border-radius: 1rem;
+}
+.button{
+    width: 90px;
+    height: 20px;
+    border-radius: 0.5rem;
+}
